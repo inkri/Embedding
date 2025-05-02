@@ -1,8 +1,5 @@
 # Embedding
 All about Embedding
-
-Sure, here’s a **complete yet concise guide** on **embeddings**—from fundamentals to advanced use cases—focused on **text, image**, and other types, and aimed at **developers who want to build and fine-tune embeddings for their own data**.
-
 ---
 
 ## 🔹 What Are Embeddings?
